@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dad38ef0-d136-4275-8207-f3e5742f88d9" name="Changes" comment="Task 3">
+    <list default="true" id="dad38ef0-d136-4275-8207-f3e5742f88d9" name="Changes" comment="Task 4">
       <change beforePath="$PROJECT_DIR$/src/Homework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="homework_task_3" />
+        <entry key="$PROJECT_DIR$" value="homework_task_4" />
       </map>
     </option>
   </component>
@@ -92,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673957896371</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Task 4">
+      <created>1673958278235</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673958278235</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +121,7 @@
     <MESSAGE value="Task 1" />
     <MESSAGE value="Task 2" />
     <MESSAGE value="Task 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 3" />
+    <MESSAGE value="Task 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 4" />
   </component>
 </project>

@@ -2,16 +2,48 @@ public class Homework {
 
     public static void main(String[] args) {
 
-        byte deliveryDistance = 95;
+        byte monthNumber = 12;
 
-        if (deliveryDistance < 20) {
-            System.out.println("Потребуется дней: 1");
-        } else if (deliveryDistance >= 20 && deliveryDistance <= 60) {
-            System.out.println("Потребуется дней: 2");
-        } else if (deliveryDistance > 60 && deliveryDistance <= 100) {
-            System.out.println("Потребуется дней: 3");
-        } else if (deliveryDistance > 100) {
-            System.out.println("Доставки нет");
+        switch (monthNumber) {
+            case 1:
+                System.out.println("1-й месяц принадлежит к сезону зима");
+                break;
+            case 2:
+                System.out.println("2-й месяц принадлежит к сезону зима");
+                break;
+            case 3:
+                System.out.println("3-й месяц принадлежит к сезону весна");
+                break;
+            case 4:
+                System.out.println("4-й месяц принадлежит к сезону весна");
+                break;
+            case 5:
+                System.out.println("5-й месяц принадлежит к сезону весна");
+                break;
+            case 6:
+                System.out.println("6-й месяц принадлежит к сезону лето");
+                break;
+            case 7:
+                System.out.println("7-й месяц принадлежит к сезону лето");
+                break;
+            case 8:
+                System.out.println("8-й месяц принадлежит к сезону лето");
+                break;
+            case 9:
+                System.out.println("9-й месяц принадлежит к сезону осень");
+                break;
+            case 10:
+                System.out.println("10-й месяц принадлежит к сезону осень");
+                break;
+            case 11:
+                System.out.println("11-й месяц принадлежит к сезону осень");
+                break;
+            case 12:
+                System.out.println("12-й месяц принадлежит к сезону зима");
+                break;
+            default:
+                System.out.println("Такого месяца не существует");
+
         }
 
     }
